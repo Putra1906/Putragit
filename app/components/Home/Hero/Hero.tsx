@@ -35,7 +35,7 @@ const Hero = () => {
             Student with a strong interest in logical and analytical thinking. Currently studying disciplines related 
             to cybersecurity, computer networks,DevOps Engineering, and Web Developer. 
             Committed to continuously developing technical skills and insights in the field
-             of information and communication technology.
+             of informations and communication technology.
             </p>
             <div>
               <Link href='/images/CV.pdf' download="CV" target='_blank'>
